@@ -1,0 +1,1 @@
+This projects is a DevOps project built to practice CI/CD
